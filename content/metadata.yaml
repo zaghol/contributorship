@@ -68,14 +68,18 @@ authors:
     roles:
       - CREDIT_00000009 software role
       - CRO_0000064 software engineering role
-  - name: Mohammad Hosseini
+  - github: zaghol
+  name: Mohammad Hosseini
     initials: MH
     orcid: 0000-0002-2385-985X
     email: mohammad.hosseini@dcu.ie
+    twitter: @mhmd_hosseini
     affiliations:
       - Dublin City University
     roles:
+      - CREDIT_00000001 conceptualization role
       - CREDIT_00000013 writing original draft role
+      - CREDIT_00000014 Writing – review & editing role
   - github: vioil
     name: Violeta Ilik
     initials: VI
